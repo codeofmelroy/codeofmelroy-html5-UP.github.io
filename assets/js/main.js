@@ -398,4 +398,5 @@
 						$main._show(location.hash.substr(1), true);
 					});
 
+		$( "#work-tabs" ).tabs();
 })(jQuery);

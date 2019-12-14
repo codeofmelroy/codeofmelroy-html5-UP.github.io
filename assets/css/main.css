@@ -1507,6 +1507,14 @@ input, select, textarea {
 		background-color: black;
 	}
 
+	.float-right {
+		float: right;
+	}
+
+	.display-inline {
+		display: inline;
+	}
+
 	#main {
 		-moz-flex-grow: 1;
 		-webkit-flex-grow: 1;
